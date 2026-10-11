@@ -1,0 +1,305 @@
+{
+  "student": "Тимошенко Софья Антоновна",
+  "group": "ИНФА-231",
+  "variant": 12,
+  "corpus_source": "books.toscrape.com",
+  "corpus_total": 1000,
+  "sample_size": 750,
+  "random_state": 112,
+  "min_len": 3,
+  "vocabulary_size": 15967,
+  "build_time_seconds": 0.14599714699988908,
+  "query": "summer wedding",
+  "query_terms": [
+    "summer",
+    "wedding"
+  ],
+  "main_operator": "OR",
+  "and_results_count": 2,
+  "and_time_seconds": 3.0525002330250572e-06,
+  "or_results_count": 38,
+  "or_time_seconds": 4.305499714973848e-06,
+  "linear_search_time_seconds": 0.16032959349968223,
+  "index_speedup": 19581.045091355456,
+  "vocabulary_by_min_len": {
+    "1": 16130,
+    "2": 16104,
+    "3": 15967,
+    "4": 15447,
+    "5": 14107
+  },
+  "vocabulary_by_corpus_size": {
+    "100": 4894,
+    "250": 8657,
+    "500": 12599,
+    "750": 15967
+  },
+  "results": [
+    {
+      "doc_id": 9,
+      "source_id": 431,
+      "title": "The Alien Club",
+      "genre": "",
+      "price": 54.4
+    },
+    {
+      "doc_id": 16,
+      "source_id": 465,
+      "title": "My Life Next Door (My Life Next Door )",
+      "genre": "",
+      "price": 36.39
+    },
+    {
+      "doc_id": 33,
+      "source_id": 171,
+      "title": "Secrets and Lace (Fatal Hearts #1)",
+      "genre": "",
+      "price": 20.27
+    },
+    {
+      "doc_id": 57,
+      "source_id": 14,
+      "title": "Rip it Up and Start Again",
+      "genre": "",
+      "price": 35.02
+    },
+    {
+      "doc_id": 104,
+      "source_id": 94,
+      "title": "Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",
+      "genre": "",
+      "price": 45.61
+    },
+    {
+      "doc_id": 108,
+      "source_id": 899,
+      "title": "Girl Online On Tour (Girl Online #2)",
+      "genre": "",
+      "price": 53.47
+    },
+    {
+      "doc_id": 140,
+      "source_id": 137,
+      "title": "The Vacationers",
+      "genre": "",
+      "price": 42.15
+    },
+    {
+      "doc_id": 159,
+      "source_id": 53,
+      "title": "This One Summer",
+      "genre": "",
+      "price": 19.49
+    },
+    {
+      "doc_id": 180,
+      "source_id": 674,
+      "title": "Harry Potter and the Half-Blood Prince (Harry Potter #6)",
+      "genre": "",
+      "price": 48.75
+    },
+    {
+      "doc_id": 237,
+      "source_id": 731,
+      "title": "The Paris Wife",
+      "genre": "",
+      "price": 36.8
+    },
+    {
+      "doc_id": 252,
+      "source_id": 567,
+      "title": "In the Woods (Dublin Murder Squad #1)",
+      "genre": "",
+      "price": 38.38
+    },
+    {
+      "doc_id": 256,
+      "source_id": 54,
+      "title": "Thirst",
+      "genre": "",
+      "price": 17.27
+    },
+    {
+      "doc_id": 261,
+      "source_id": 608,
+      "title": "Shiver (The Wolves of Mercy Falls #1)",
+      "genre": "",
+      "price": 16.23
+    },
+    {
+      "doc_id": 262,
+      "source_id": 941,
+      "title": "The Bette Davis Club",
+      "genre": "",
+      "price": 30.66
+    },
+    {
+      "doc_id": 268,
+      "source_id": 438,
+      "title": "Dress Your Family in Corduroy and Denim",
+      "genre": "",
+      "price": 43.68
+    },
+    {
+      "doc_id": 277,
+      "source_id": 218,
+      "title": "Wild Swans",
+      "genre": "",
+      "price": 14.36
+    },
+    {
+      "doc_id": 293,
+      "source_id": 437,
+      "title": "Fruits Basket, Vol. 9 (Fruits Basket #9)",
+      "genre": "",
+      "price": 33.95
+    },
+    {
+      "doc_id": 298,
+      "source_id": 803,
+      "title": "Naked",
+      "genre": "",
+      "price": 31.69
+    },
+    {
+      "doc_id": 316,
+      "source_id": 660,
+      "title": "Shopaholic Ties the Knot (Shopaholic #3)",
+      "genre": "",
+      "price": 48.39
+    },
+    {
+      "doc_id": 326,
+      "source_id": 620,
+      "title": "Isla and the Happily Ever After (Anna and the French Kiss #3)",
+      "genre": "",
+      "price": 48.13
+    },
+    {
+      "doc_id": 340,
+      "source_id": 585,
+      "title": "Two Summers",
+      "genre": "",
+      "price": 14.64
+    },
+    {
+      "doc_id": 346,
+      "source_id": 857,
+      "title": "Crazy Rich Asians (Crazy Rich Asians #1)",
+      "genre": "",
+      "price": 49.13
+    },
+    {
+      "doc_id": 386,
+      "source_id": 368,
+      "title": "Stars Above (The Lunar Chronicles #4.5)",
+      "genre": "",
+      "price": 48.05
+    },
+    {
+      "doc_id": 434,
+      "source_id": 601,
+      "title": "The Darkest Corners",
+      "genre": "",
+      "price": 11.33
+    },
+    {
+      "doc_id": 440,
+      "source_id": 358,
+      "title": "The Star-Touched Queen",
+      "genre": "",
+      "price": 32.3
+    },
+    {
+      "doc_id": 462,
+      "source_id": 989,
+      "title": "Bright Lines",
+      "genre": "",
+      "price": 39.07
+    },
+    {
+      "doc_id": 482,
+      "source_id": 233,
+      "title": "The Wedding Pact (The O&#39;Malleys #2)",
+      "genre": "",
+      "price": 32.61
+    },
+    {
+      "doc_id": 509,
+      "source_id": 259,
+      "title": "Take Me with You",
+      "genre": "",
+      "price": 45.21
+    },
+    {
+      "doc_id": 546,
+      "source_id": 375,
+      "title": "No Love Allowed (Dodge Cove #1)",
+      "genre": "",
+      "price": 54.65
+    },
+    {
+      "doc_id": 555,
+      "source_id": 95,
+      "title": "Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12)",
+      "genre": "",
+      "price": 19.92
+    },
+    {
+      "doc_id": 604,
+      "source_id": 972,
+      "title": "Kitchens of the Great Midwest",
+      "genre": "",
+      "price": 57.2
+    },
+    {
+      "doc_id": 641,
+      "source_id": 551,
+      "title": "The Joy of Cooking",
+      "genre": "",
+      "price": 43.27
+    },
+    {
+      "doc_id": 669,
+      "source_id": 838,
+      "title": "Gone Girl",
+      "genre": "",
+      "price": 37.6
+    },
+    {
+      "doc_id": 676,
+      "source_id": 344,
+      "title": "A Study in Scarlet (Sherlock Holmes #1)",
+      "genre": "",
+      "price": 16.73
+    },
+    {
+      "doc_id": 683,
+      "source_id": 776,
+      "title": "Something Borrowed (Darcy &amp; Rachel #1)",
+      "genre": "",
+      "price": 48.96
+    },
+    {
+      "doc_id": 698,
+      "source_id": 777,
+      "title": "Something Blue (Darcy &amp; Rachel #2)",
+      "genre": "",
+      "price": 54.62
+    },
+    {
+      "doc_id": 726,
+      "source_id": 950,
+      "title": "Settling the Score (The Summer Games #1)",
+      "genre": "",
+      "price": 44.91
+    },
+    {
+      "doc_id": 737,
+      "source_id": 542,
+      "title": "A Summer In Europe",
+      "genre": "",
+      "price": 44.34
+    }
+  ]
+}
